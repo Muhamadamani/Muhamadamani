@@ -1,8 +1,5 @@
 <img src="header.png" alt="header">
-<h3 align="center">A passionate PhD researcher from TU Delft</h3>
-
 <p align="left"> <a href="https://twitter.com/muhamad__ai" target="blank"><img src="https://img.shields.io/twitter/follow/muhamad__ai?logo=twitter&style=for-the-badge" alt="muhamad__ai" /></a> </p>
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/muhamad__ai" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="muhamad__ai" height="30" width="40" /></a>
